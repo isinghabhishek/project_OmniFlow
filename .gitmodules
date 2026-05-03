@@ -1,0 +1,9 @@
+[submodule "ai-data-platform"]
+	path = ai-data-platform
+	url = https://github.com/isinghabhishek/ai-powered-data-platform.git
+[submodule "lakehouse"]
+	path = lakehouse
+	url = https://github.com/isinghabhishek/data-lakehouse-scratch.git
+[submodule "batch-elt-medallion"]
+	path = batch-elt-medallion
+	url = https://github.com/isinghabhishek/batch-elt-medallion.git
